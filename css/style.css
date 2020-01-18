@@ -1,0 +1,9 @@
+html {
+	background-color: #ffcc99;
+	display: flex;
+	justify-content: center;
+	font-size: 72px;
+}
+p {
+	color: red;
+}
